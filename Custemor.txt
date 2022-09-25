@@ -1,0 +1,10 @@
+Customer                Product                 Price                   Qut                     Totel
+______________________________________________________________________________________________________
+
+Mavi			Dudh			60			2L			120
+Vasu			Dudh			60			3L			180
+DevS			Dudh			60			9L			540
+Aaryan			Dudh			60			3L			180
+Sumit			Ghee			100			5L			500
+Jash			Ghee			100			3L			300
+Fhegh			Ghee			100			4L			400

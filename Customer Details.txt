@@ -1,0 +1,14 @@
+
+    Name: Mavi                Phone No. +91-1122334455          Address: Gandhidham
+    Name: Vaibhav             Phone No. +91-2233445566          Address: Bhuj
+    Name: Bhavit              Phone No. +91-9969699922          Address: Madhapar
+    Name: Raj Soni            Phone No. +91-1122334455          Address: Rajkot
+    Name: Mahesh              Phone No. +91-2233445566          Address: Bhachau
+    Name: Mahesh              Phone No. +91-9090909090          Address: Madhapar
+    Name: Aaryan soni         Phone No. +91-1112223331          Address: Gandhidham
+    Name: Vasu sapariya       Phone No. +91-2147483647          Address: 
+    Name: Vasu sapariya       Phone No. +91-1231231231          Address: Rajkot
+    Name: Sumit bagora        Phone No. +91-3920192039          Address: Rajasthan
+    Name: Dev                 Phone No. +91-2147483647          Address: 
+    Name: Dhruv Patel         Phone No. +91-1234561234          Address: Gandhidham
+    Name: Vaishali Soni       Phone No. +91-1231231233          Address: Rajkot
